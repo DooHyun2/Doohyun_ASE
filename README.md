@@ -1,3 +1,8 @@
+Doohyun_ASE
+
+Crystal structure visualization using ASE, with animations of LLZO and LiFePO4.
+
+
 https://github.com/user-attachments/assets/23e5c1e0-1420-471f-821f-7774bd070929
 
 
