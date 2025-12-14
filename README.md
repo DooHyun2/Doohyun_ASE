@@ -19,3 +19,19 @@ LiFePO4_ASE
 
 ASE visualization of the LiFePO4 crystal structure generated from CIF data!
 
+Environment
+
+-python 3.10
+-conda
+-ASE
+
+
+
+How to run 
+
+ase gui LLZO.cif
+
+ase gui LiFePO4_cif 
+
+
+
