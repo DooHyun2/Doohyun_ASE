@@ -37,7 +37,7 @@ How to run
 
 ase gui LLZO.cif
 
-ase gui LiFePO4_cif 
+ase gui LiFePO4.cif 
 
-
+ase gui MgAl2O4.cif
 
