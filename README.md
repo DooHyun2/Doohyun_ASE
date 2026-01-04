@@ -15,6 +15,12 @@ Rotating visualization of a cubic LLZO crystal structure loaded from a CIF file 
 https://github.com/user-attachments/assets/106dd6fd-4d70-42c1-bbc5-dff58e0f9883
 
 
+<img width="450" height="469" alt="image" src="https://github.com/user-attachments/assets/422e0219-3808-4c9f-a5c2-50984bb235de" />
+
+MgAl2O4_ASE
+
+Magnesium Aluminate Spinel
+
 LiFePO4_ASE
 
 ASE visualization of the LiFePO4 crystal structure generated from CIF data!
